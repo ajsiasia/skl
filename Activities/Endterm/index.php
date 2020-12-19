@@ -43,8 +43,8 @@
 			</div>
 			<div id="module">
 				<h1> Exam</h1>
-				<a href="../../index.html"><h2>Heroku</a></h2>	
-				<a href=""><h2>Github</a></h2>
+				<a href="https://app-opa.herokuapp.com/index.php"><h2>Heroku</a></h2>	
+				<a href="https://github.com/ajsiasia/skl"><h2>Github</a></h2>
 			</div>
 				
 		
