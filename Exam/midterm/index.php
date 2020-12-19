@@ -16,22 +16,22 @@
 		<div id="header">
 			<h1></h1>
 			<ul>
-				<li><a href="index.html">Home</a></li>
+				<li><a href="index.php">Home</a></li>
 				<div id="dropdown">
 				<li>Activities</li>
 				<div class = "dropdown-content">
 					<ul>
 						<div class="act">
-						<a href="Activities/Prelim/index.html">CSS</a>
+						<a href="Activities/Prelim/index.php">CSS</a>
 						<br>
-						<a href="Activities/Midterm/index.html">SVG</a>
+						<a href="Activities/Midterm/index.php">SVG</a>
 						<br>
-						<a href="Activities/Endterm/index.html">CANVAS</a>
+						<a href="Activities/Endterm/index.php">CANVAS</a>
 						</div>
 					</ul>	
 				</div>
 				</div>
-				<li><a href="about/index.html">About Me</a></li>
+				<li><a href="about/index.php">About Me</a></li>
 			</ul>
 		</div>
 		<div id="quotes">
